@@ -58,4 +58,14 @@ date_format = "Jan 2006"
   date_end = "2017-12-21"
   description = ""
 
+[[item]]
+  organization = "deeplearningai"
+  organization_url = "https://www.deeplearning.ai"
+  title = "DL.ai"
+  url = ""
+  certificate_url = "https://www.deeplearning.ai"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
+
 +++
